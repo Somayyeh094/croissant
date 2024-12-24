@@ -1,0 +1,23 @@
+body{
+   background: #ffe9e3;  
+}
+h1,
+p {
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 500px;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.a-link{
+ color: brown;
+ margin-left: 45px; 
+}
+.link{
+display: flex;
+justify-content:center;
+}
